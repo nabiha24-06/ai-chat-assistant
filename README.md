@@ -1,7 +1,7 @@
 
 # AI Assistant - Document Intelligence & Tool-Calling Platform
 
-An interactive AI Assistant built with React, TypeScript, Vite, and Google Gemini API. This project features full conversational context retention, multi-format document intelligence (PDF, DOCX, TXT), and dynamic tool-calling.
+An interactive AI Assistant built with TypeScript, CSS, HTML, Vite and Google Gemini API. This project features full conversational context retention, multi-format document intelligence (PDF, DOCX, TXT), and dynamic tool-calling.
 
 ## KEY FEATURES
 
@@ -15,7 +15,7 @@ An interactive AI Assistant built with React, TypeScript, Vite, and Google Gemin
    - Client-side document parsing:
      - Custom browser bundling for PDF parsing via `pdfjs-dist`.
      - Native DOCX extraction using `mammoth.js`.
-   - Hybrid Answering Strategy: Priorities grounded facts directly from uploaded documents, automatically falling back to general AI knowledge when external details are requested.
+   - Hybrid Answering Strategy: Prioritizes grounded facts directly from uploaded documents, automatically falling back to general AI knowledge when external details are requested.
 
 3. **Native Function & Tool Calling**
    - Calculator Engine: Parses mathematical expressions and evaluates complex arithmetic operations.
