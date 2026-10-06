@@ -33,8 +33,9 @@ An interactive AI Assistant built with React, TypeScript, Vite, and Google Gemin
 - npm or yarn
 
 ### 1. Clone the Repository
+
 ```bash
-git clone https://github.com
+git clone https://github.com/nabiha24-06/ai-chat-assistant.git
 cd ai-chat-assistant
 ```
 
