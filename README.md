@@ -54,7 +54,7 @@ This project requires a Gemini API key to function.
 ```env
 VITE_GEMINI_API_KEY=your_gemini_api_key_here
 ```
-
+*Note: If configuring backend or database secrets for edge function deployment, name the secret key `AI_Assistant`.*
 ### 4. Run the Development Server
 Once the server starts, open your browser and navigate to http://localhost:5173 in your browser .
 ```bash
